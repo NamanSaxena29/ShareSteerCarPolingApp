@@ -1,0 +1,2 @@
+# ShareSteerCarPolingApp
+Share-Steer is an online Carpooling web application. It will help passengers to share their empty vehicle seats and reduce their travelling costs. This is the Best application to Search, connect, route match, coordinate and cost-share rides for every passenger. It makes carpooling convenient, safe, comfortable and affordable for the commuter. Tools used are Visual-Studio-Code, Spring tool, MySql Client and browser Microsoft Edge.
